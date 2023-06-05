@@ -3,7 +3,6 @@ import { v4 as uuidv4 } from 'uuid';
 
 import AddUser from "./components/Users/AddUser";
 import UserList from "./components/Users/UserList";
-import Wrapper from './components/Helpers/Wrapper';
 
 function App() {
 
